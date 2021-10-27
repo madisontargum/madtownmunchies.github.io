@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width: 906px; 
+	color: whitesmoke;
+	background-color: palevioletred;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	margin: auto;}
+
+a:link {color: palevioletred;}
+a:visted {color: black}
+
+nav li {
+display: inline; 
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+	font-size: 85%;
+	padding-right: 15px;
+	padding-left: 15px;
+	list-style-type: none;}
+	
+nav {
+	width: 900px;
+	text-align: center;
+	background-color:palevioletred;
+	margin-top: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;}
+
+img{ 
+	max-width: 30%;
+	max-height: 40%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+	
+ul {
+list-style-type: none;
+	margin: 0px;
+	padding: 0px;}
+	
+a:link {
+	color: white;
+}
+	
+a:visited {
+	color: lightpink;
+}
+
+	
+	
+	
+	
+
