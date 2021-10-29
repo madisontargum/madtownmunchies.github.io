@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width: 906px; 
+	color: whitesmoke;
+	background-color: palevioletred;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	margin: auto;}
+
+a:link {color: lightpink;}
+a:visted {color: black}
+
+nav li {
+display: inline; 
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+	font-size: 85%;
+	padding-right: 15px;
+	padding-left: 15px;
+	list-style-type: none;}
+	
+nav {
+	width: 900px;
+	text-align: center;
+	background-color: violet;
+	margin-top: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;}
+	
+ul {
+list-style-type: none;
+	margin: 0px;
+	padding: 0px;}
+	
+	
+	
+	
+	
+	
+
